@@ -17,3 +17,7 @@ This is last tier.
 Tier 1 is most under tier.
 
 Tier 3 is most high tier.
+
+Sera live start in Tier 1.
+
+Sera live is more high tier inf he has more high tier done.
