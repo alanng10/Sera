@@ -34,3 +34,9 @@ Sera live tier is gone more high.
 
 Any has 3 tier.
 The 3 tier is same as live tier.
+
+Oran Any is goal Dark.
+
+Alan Any is goal Mark.
+
+Sera Any is goal Park.
