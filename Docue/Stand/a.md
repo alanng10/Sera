@@ -23,3 +23,7 @@ Stand will on.
 Stand never fail.
 
 Stand effect is most opaque.
+
+Safe include:
+1. Body cell total recover.
+2. Body cell none die.
