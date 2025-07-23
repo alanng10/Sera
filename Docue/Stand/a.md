@@ -33,7 +33,7 @@ Safe include:
 6. Switch body. Choose face. Avail for mind trigg.
 
 Sure include:
-1. All SERA and Stand info.
+1. All SERA and Stand info avail trigg with System.
 2. All belong get.
 
 Easy include:
