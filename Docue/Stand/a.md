@@ -17,3 +17,5 @@ Stand is on by SERA.
 SERA is execute by Park.
 
 SERA effect is god effect.
+
+Stand will on.
