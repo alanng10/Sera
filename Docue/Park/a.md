@@ -57,3 +57,5 @@ All human mind start from the number gone more high.
 
 All human will be Sera.
 All human will total done Park.
+
+All human will exist forever.
