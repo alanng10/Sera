@@ -21,3 +21,11 @@ Seer is Park 1.
 Seer park word is Seer.
 
 The number is count of Park word after Park.
+
+Feel is Park 2.
+
+Love is Park 3.
+
+Mine is Park 4.
+
+Time is Park 5.
