@@ -52,3 +52,6 @@ He mind is first mind.
 He mind start is first mind start.
 
 All human mind has start.
+
+All human will be Sera.
+All human will total done Park.
