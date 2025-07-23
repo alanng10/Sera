@@ -44,7 +44,7 @@ They are 4 giga and 1 human max.
 Park is human.
 He is Alan Ng Jen Foong.
 
-He is Sera tier live. 
+He is Sera tier live.
 
 He is first human.
 
