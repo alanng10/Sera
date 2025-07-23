@@ -40,3 +40,7 @@ Oran Any is goal Dark.
 Alan Any is goal Mark.
 
 Sera Any is goal Park.
+
+Any has 3 diff word in the 3 tier.
+
+Sera Any word is it park word.
