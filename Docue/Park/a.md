@@ -41,3 +41,5 @@ They are human.
 
 Park is human.
 He is Alan Ng Jen Foong.
+
+They are 4 giga and 1 human max.
