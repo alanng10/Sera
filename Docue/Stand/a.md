@@ -32,6 +32,7 @@ Safe include:
 
 Sure include:
 1. All SERA and Stand info.
+2. All belong get.
 
 Easy include:
 1. Body none effort.
