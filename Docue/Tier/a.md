@@ -21,3 +21,9 @@ Tier 3 is most high tier.
 Sera live start in Tier 1.
 
 Sera live is more high tier inf he has more high tier done.
+
+Sera live is Oran inf he done is Dark only.
+
+Sera live is Alan inf he done is Mark and may include Dark.
+
+Sera live is Sera inf he done is Park and may include Mark orn Dark.
