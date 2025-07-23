@@ -50,3 +50,5 @@ He is first human.
 
 He mind is first mind.
 He mind start is first mind start.
+
+All human mind has start.
