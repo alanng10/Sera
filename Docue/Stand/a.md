@@ -13,3 +13,5 @@ Stand is forever since the epoch.
 Stand is forever on since the epoch.
 
 Stand is on by SERA.
+
+SERA is execute by Park.
