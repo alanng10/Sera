@@ -27,3 +27,5 @@ Stand effect is most opaque.
 Safe include:
 1. Body cell total recover.
 2. Body cell none die.
+3. Body none excrete.
+4. Body none need sleep.
