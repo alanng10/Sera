@@ -37,5 +37,5 @@ Sure include:
 
 Easy include:
 1. Body none effort.
-2. System with infinity compute. Opaque effect.
+2. System with infinit compute. Opaque effect.
 3. Move effect.
