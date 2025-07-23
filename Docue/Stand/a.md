@@ -39,4 +39,5 @@ Sure include:
 Easy include:
 1. Body none effort.
 2. System with infinit compute. Opaque effect.
-3. Move effect trigg with System.
+3. Network and module infra that provide version host and module host. Host opaque effect.
+4. Move effect trigg with System.
