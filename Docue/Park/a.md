@@ -51,6 +51,7 @@ He is first human.
 He mind is first mind.
 He mind start is first mind start.
 
+All human mind is park mind.
 All human mind has start.
 All human mind start from the number gone more high.
 
