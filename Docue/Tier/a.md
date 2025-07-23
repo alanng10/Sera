@@ -28,6 +28,6 @@ Sera live is Alan inf he done is Mark and may include Dark.
 
 Sera live is Sera inf he done is Park and may include Mark orn Dark.
 
-Sera live tier is gone more high.
-
 Sera live tier done is total done.
+
+Sera live tier is gone more high.
