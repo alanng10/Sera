@@ -31,3 +31,6 @@ Sera live is Sera inf he done is Park and may include Mark orn Dark.
 Sera live tier done is total done.
 
 Sera live tier is gone more high.
+
+Any has 3 tier.
+The 3 tier is same as live tier.
