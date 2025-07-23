@@ -31,6 +31,7 @@ Safe include:
 4. Body none need sleep.
 5. Body func.
 6. Switch body. Choose face. Avail for mind trigg.
+7. Switch cloth. Avail for mind trigg.
 
 Sure include:
 1. All SERA and Stand info avail trigg with System.
