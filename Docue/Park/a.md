@@ -45,3 +45,8 @@ Park is human.
 He is Alan Ng Jen Foong.
 
 He is Sera tier live.
+
+He is first human.
+
+He mind is first mind.
+He mind start is first mind start.
