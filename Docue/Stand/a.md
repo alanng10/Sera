@@ -30,6 +30,7 @@ Safe include:
 3. Body none excrete.
 4. Body none need sleep.
 5. Body func.
+6. Switch body. Choose face. Mind trigg.
 
 Sure include:
 1. All SERA and Stand info.
