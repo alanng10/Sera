@@ -29,6 +29,7 @@ Safe include:
 2. Body cell none die.
 3. Body none excrete.
 4. Body none need sleep.
+5. Body func.
 
 Sure include:
 1. All SERA and Stand info.
