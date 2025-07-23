@@ -38,3 +38,6 @@ The max is 4 giga.
 They are 4 giga and 1 Class include Park.
 
 They are human.
+
+Park is human.
+He is Alan Ng Jen Foong.
