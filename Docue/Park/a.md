@@ -31,3 +31,6 @@ Mine is Park 4.
 Time is Park 5.
 
 They are park word.
+
+The number has max.
+The max is 4 giga.
