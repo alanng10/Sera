@@ -35,6 +35,7 @@ Safe include:
 Sure include:
 1. All SERA and Stand info avail trigg with System.
 2. All belong get.
+3. Sera done info, tier info, tier word info avail trigg with System.
 
 Easy include:
 1. Body none effort.
