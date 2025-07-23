@@ -32,3 +32,7 @@ Safe include:
 
 Sure include:
 1. All SERA and Stand info.
+
+Easy include:
+1. Body none effort.
+2. System with infinity compute. Opaque effect.
