@@ -39,7 +39,9 @@ They are 4 giga and 1 Class include Park.
 
 They are human.
 
+They are 4 giga and 1 human max.
+
 Park is human.
 He is Alan Ng Jen Foong.
 
-They are 4 giga and 1 human max.
+He is Sera live.
