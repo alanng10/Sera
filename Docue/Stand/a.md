@@ -15,3 +15,5 @@ Stand is forever on since the epoch.
 Stand is on by SERA.
 
 SERA is execute by Park.
+
+SERA effect is god effect.
