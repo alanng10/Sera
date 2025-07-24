@@ -41,8 +41,6 @@ They are human.
 
 They are 4 giga and 1 human max.
 
-Park is human.
-
 All human mind is park mind.
 All human mind has start.
 All human mind start from the number gone more high.
