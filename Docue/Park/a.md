@@ -42,14 +42,6 @@ They are human.
 They are 4 giga and 1 human max.
 
 Park is human.
-He is Alan Ng Jen Foong.
-
-He is Sera tier live.
-
-He is first human.
-
-He mind is first mind.
-He mind start is first mind start.
 
 All human mind is park mind.
 All human mind has start.
