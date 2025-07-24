@@ -1,7 +1,5 @@
 # Stand
 
-Sera has Stand since time final epoch.
-
 Stand gift Safe, Sure and Easy to Sera.
 
 Safe is park safe.
