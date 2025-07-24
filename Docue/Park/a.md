@@ -36,18 +36,3 @@ The number has max.
 The max is 4 giga.
 
 They are 4 giga and 1 Class include Park.
-
-They are human.
-
-They are 4 giga and 1 human max.
-
-All human mind is park mind.
-All human mind has start.
-All human mind start from the number gone more high.
-
-All human will be Sera.
-All human will be Sera forever.
-All human will total done Park.
-All human will total done Park forever.
-
-All human will exist forever.
