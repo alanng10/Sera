@@ -1,7 +1,7 @@
 # Stand
 
-Stand gift Safe, Sure and Easy to Sera.
+Stand gift Safe, Sure and Ease to Sera.
 
 Safe is park safe.
 Sure is park sure.
-Easy is park easy.
+Ease is park ease.
